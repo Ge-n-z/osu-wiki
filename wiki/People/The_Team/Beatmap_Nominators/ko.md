@@ -249,6 +249,6 @@ BN은 주로 [보류 중 상태인 비트맵](/wiki/Beatmap/Category#work-in-pro
 [flag_TH]: /wiki/shared/flag/TH.gif "태국"
 [flag_TN]: /wiki/shared/flag/TN.gif "튀니지"
 [flag_TR]: /wiki/shared/flag/TR.gif "터키"
-[flag_TW]: /wiki/shared/flag/TW.gif "타이완"
+[flag_TW]: /wiki/shared/flag/TW.gif "대만"
 [flag_US]: /wiki/shared/flag/US.gif "미국"
 [flag_VN]: /wiki/shared/flag/VN.gif "베트남"
