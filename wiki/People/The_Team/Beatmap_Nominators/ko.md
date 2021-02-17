@@ -6,7 +6,7 @@ tags:
 
 # 비트맵 노미네이터
 
-*이 문서들도 확인해보세요: [비트맵 노미네이터 규칙](Rules), [비트맵 노미네이터에 대한 기대](Expectations), [비트맵 노미네이터에 대한 일반적인 정보들](General_Information), 그리고 [비트맵 노미네이터가 되는 방법](Becoming_a_Beatmap_Nominator)*
+*이 문서들도 확인해보세요: [비트맵 노미네이터 규칙](Rules), [비트맵 노미네이터 행동강령](Expectations), [비트맵 노미네이터를 위한 일반적인 정보](General_Information), 그리고 [비트맵 노미네이터가 되는 방법](Becoming_a_Beatmap_Nominator)*
 
 **비트맵 노미네이터** (***BN***)는 [비트맵 지명](/wiki/Beatmap_ranking_procedure)을 담당하는 그룹입니다. 이들은 포럼과 인게임에서 보라색 이름을 가지고 있습니다.
 
