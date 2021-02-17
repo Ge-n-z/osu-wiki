@@ -240,7 +240,7 @@ BN은 주로 [보류 중 상태인 비트맵](/wiki/Beatmap/Category#work-in-pro
 [flag_NO]: /wiki/shared/flag/NO.gif "노르웨이"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "뉴질랜드"
 [flag_PH]: /wiki/shared/flag/PH.gif "필리핀"
-[flag_PL]: /wiki/shared/flag/PL.gif "폴란트"
+[flag_PL]: /wiki/shared/flag/PL.gif "폴란드"
 [flag_PR]: /wiki/shared/flag/PR.gif "푸에르토리코"
 [flag_RS]: /wiki/shared/flag/RS.gif "세르비아"
 [flag_RU]: /wiki/shared/flag/RU.gif "러시아"
